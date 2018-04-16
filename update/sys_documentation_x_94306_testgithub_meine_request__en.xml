@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Meine Request" language="en" table="x_94306_testgithub_meine_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Meine Request</label>
+            <language>en</language>
+            <name>x_94306_testgithub_meine_request</name>
+            <plural>Meine Requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 08:30:08</sys_created_on>
+            <sys_id>3d205bb7db11130053f35ff0cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Meine Request</sys_name>
+            <sys_package display_value="TestGitHub" source="x_94306_testgithub">d07d0553db11130053f35ff0cf96191b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestGitHub">d07d0553db11130053f35ff0cf96191b</sys_scope>
+            <sys_update_name>sys_documentation_x_94306_testgithub_meine_request__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 08:30:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
