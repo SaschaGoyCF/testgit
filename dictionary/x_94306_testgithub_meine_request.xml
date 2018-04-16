@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sc_request" label="Meine Request" max_length="40" name="x_94306_testgithub_meine_request" type="collection"/>
+    <element extends="sc_request" label="Meine Request" max_length="40" name="x_94306_testgithub_meine_request" type="collection">
+        <element label="Test Feld" max_length="60" name="test_field" type="string"/>
+    </element>
 </database>
